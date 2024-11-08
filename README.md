@@ -2,4 +2,4 @@
 
 This is a test repo containing vulnerable code.
 
-Trigger scan.
+Trigger another scan.
