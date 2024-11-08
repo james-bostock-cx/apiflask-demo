@@ -1,0 +1,17 @@
+info:
+  title: APIFlask
+  version: 0.1.0
+tags: []
+paths:
+  /execute:
+    post:
+      parameters: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: Successful response
+      summary: Execute User Code Unsafe
+openapi: 3.0.3
+
